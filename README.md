@@ -1,4 +1,4 @@
-# Journal de bord: Démarche Scientifique.
+# Journal de bord: GaLLost.
 
 *Nous avons 3 objectifs à atteindre pour notre projet:*
   1) Créer un programme Python renvoyant le taux de GC et la taille d'un chromosome
